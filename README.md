@@ -45,5 +45,6 @@ How to Run the Project:
 
 Download or clone the project files. Open index.html in a web browser to view and interact with the to-do list web application.
 
+
 Project output:
 ![1](https://github.com/user-attachments/assets/931cdc25-b6f2-4ba4-9fd7-eb7666266d26)
