@@ -1,7 +1,11 @@
 Name: Golla Sindhuja
+
 Company: CODTECH IT Solutions
+
 Intern Id: CT8WD1499
+
 Domain: Web Development
+
 Mentor: Neela Santhosh
 
 
